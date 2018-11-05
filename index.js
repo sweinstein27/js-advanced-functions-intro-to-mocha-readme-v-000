@@ -1,3 +1,3 @@
-let theTruth = fucntion() {
+const  theTruth = fucntion() {
   return true;
 }
