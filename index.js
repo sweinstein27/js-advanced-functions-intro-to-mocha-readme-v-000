@@ -1,3 +1,3 @@
-const  theTruth = fucntion() {
-  return true;
+function theTruth(){
+  return true
 }
